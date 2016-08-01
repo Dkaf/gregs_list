@@ -1,0 +1,16 @@
+a {
+  text-decoration: none;
+}
+
+.main_nav {
+  background-color: lightgrey;
+  width: 100%;
+  position: fixed;
+  text-align: right;
+}
+.logo {
+  position: absolute;
+}
+.nav_item {
+  display: inline-block;
+}
