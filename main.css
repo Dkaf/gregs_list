@@ -2,15 +2,26 @@ a {
   text-decoration: none;
 }
 
+ul {
+  list-style: none;
+}
+
 .main_nav {
   background-color: lightgrey;
   width: 100%;
   position: fixed;
   text-align: right;
 }
+
 .logo {
   position: absolute;
 }
+
 .nav_item {
   display: inline-block;
+  color: purple;
+}
+
+.searchbar {
+  border: 1px solid black;
 }
